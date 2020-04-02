@@ -21,9 +21,9 @@ struct ListWheatherModel: Codable {
 }
 
 struct MainWeather: Codable {
-    let temp: String
-    let temp_max: String
-    let temp_min: String
+    let temp: Double
+    let temp_min: Double
+    let temp_max: Double
 }
 
 struct InfoWheather: Codable {
