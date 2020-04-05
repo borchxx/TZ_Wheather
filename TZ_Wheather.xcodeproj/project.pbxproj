@@ -16,6 +16,7 @@
 		845FE10424341A7200455E6F /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 845FE10324341A7200455E6F /* NetworkManager.swift */; };
 		845FE10624349CFD00455E6F /* WeatherModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 845FE10524349CFC00455E6F /* WeatherModel.swift */; };
 		845FE10924349FC300455E6F /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 845FE10824349FC300455E6F /* CoreLocation.framework */; };
+		8470A826243A73BE0091ECA6 /* Weather.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8470A825243A73BB0091ECA6 /* Weather.gif */; };
 		84A1C6F92436B5BB00132D0D /* InfoWeatherTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84A1C6F82436B5BB00132D0D /* InfoWeatherTableViewCell.swift */; };
 		84A1C6FD2437945E00132D0D /* SuperCrutchTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84A1C6FC2437945D00132D0D /* SuperCrutchTableViewCell.swift */; };
 		84A1C6FF2437F3BB00132D0D /* SuperCrutchHeaderTableViewCellTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84A1C6FE2437F3BB00132D0D /* SuperCrutchHeaderTableViewCellTableViewCell.swift */; };
@@ -36,6 +37,7 @@
 		845FE10324341A7200455E6F /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = SOURCE_ROOT; };
 		845FE10524349CFC00455E6F /* WeatherModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherModel.swift; sourceTree = "<group>"; };
 		845FE10824349FC300455E6F /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		8470A825243A73BB0091ECA6 /* Weather.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Weather.gif; sourceTree = "<group>"; };
 		84A1C6F82436B5BB00132D0D /* InfoWeatherTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoWeatherTableViewCell.swift; sourceTree = "<group>"; };
 		84A1C6FC2437945D00132D0D /* SuperCrutchTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuperCrutchTableViewCell.swift; sourceTree = "<group>"; };
 		84A1C6FE2437F3BB00132D0D /* SuperCrutchHeaderTableViewCellTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuperCrutchHeaderTableViewCellTableViewCell.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 		845FE0E3243419CF00455E6F = {
 			isa = PBXGroup;
 			children = (
+				8470A825243A73BB0091ECA6 /* Weather.gif */,
 				845FE0EE243419CF00455E6F /* TZ_Wheather */,
 				845FE0ED243419CF00455E6F /* Products */,
 				845FE10724349FC200455E6F /* Frameworks */,
@@ -164,6 +167,7 @@
 				845FE0FC243419D700455E6F /* LaunchScreen.storyboard in Resources */,
 				845FE0F9243419D700455E6F /* Assets.xcassets in Resources */,
 				845FE0F7243419CF00455E6F /* Main.storyboard in Resources */,
+				8470A826243A73BE0091ECA6 /* Weather.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
